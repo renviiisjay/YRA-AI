@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="yraEmeraldFavicon" x1="15%" y1="10%" x2="90%" y2="95%">
+      <stop offset="0%" stop-color="#A7DCC7" />
+      <stop offset="35%" stop-color="#349680" />
+      <stop offset="70%" stop-color="#287A68" />
+      <stop offset="100%" stop-color="#123C35" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="#123C35" />
+  <path
+    d="M 28 26 C 36 24 50 34 58 54 C 52 42 42 32 30 30 C 26 29 25 27 28 26 Z"
+    fill="#A7DCC7"
+    opacity="0.9"
+  />
+  <path
+    d="M 24 32 C 34 32 48 48 58 64 C 58 64 56 82 56 100 C 56 104 64 104 64 100 C 64 82 62 64 62 64 C 72 48 86 32 96 32 C 102 32 92 44 80 58 C 68 72 65 84 65 100 C 65 106 55 106 55 100 C 55 80 50 66 38 52 C 28 40 20 32 24 32 Z"
+    fill="url(#yraEmeraldFavicon)"
+  />
+  <circle cx="60" cy="60" r="4" fill="#FFFFFF" />
+</svg>
